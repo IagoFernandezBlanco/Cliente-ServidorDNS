@@ -10,7 +10,7 @@
 ### apt-get install -y ifupdown 
 ### apt-get install dnsutils -y --> isntala dig y dns commands
 ### apt-get install -y whois --> instalar el comando whois
-### apt install -y curl --> permite descargar archivos desde 
+### apt install -y curl --> permite descargar archivos  
 
 ## Maquina Bind
 ### apt-get install net-tools
